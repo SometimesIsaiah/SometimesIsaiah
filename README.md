@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Isaiah, an aspiring game developer from Virginia.
+
+I like modding, making games, and solving problems. 
+
+# How to reach me:
+  - Emails: [School](ibell003@odu.edu) / [Personal](Isaiahjbellamy@icloud.com)
 <!--
 **SometimesIsaiah/SometimesIsaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
